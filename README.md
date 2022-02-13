@@ -39,7 +39,9 @@ Real-Time Facial Recognition Project: Facial recognition is a way to identify or
 How facial recognition works:
 
 Step1: Face detection and Face analysis; The camera detects and locates the face image, whether alone or in a crowd. The image can show the person directly from the front or from the side profile. The image of the face is then recorded and analyzed. Most facial recognition technologies use 2D images rather than 3D because it more easily matches the 2D image with public photos or those in a database. The software reads the geometry of your face. The aim is to identify the salient points that make your face distinctive.
+
 Step2: Convert image to data; The face capture process converts analog information (face) into a set of digital information (data) based on a person's facial features. The analysis of your face is basically converted into a mathematical formula. This numeric code is called a face print. Just like fingerprints are unique, every person has a unique facial print.
+
 Step3: Pairing; Your face print is compared against a database of other known faces. If your face print matches an image in the face recognition database, a decision is made.
 Structures Used in the Project; Programming language: Python, Library: OpenCV.
 
