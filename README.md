@@ -32,6 +32,7 @@ wheel	0.36.2.
 
 NOT: Projenin çalıştırılması için proje içerisinde "veriseti" isimli boş bir klasör oluşturulmalıdır. Gerçek zamanlı elde edilen görüntü kayıtları bu klasöre kaydedilecektir. Projede yer alan "veriseti" klasörü mevcut veri içermediği için GitHub projesine yüklenememiştir.
 
+
 ENG:
 Real-Time Facial Recognition Project: Facial recognition is a way to identify or verify a person's identity using their face. Facial recognition systems can be used to identify people in photos, videos or in real time. Facial recognition is a category of biometric security.
 
